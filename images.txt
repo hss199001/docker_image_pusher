@@ -8,3 +8,4 @@ redis:latest
 hello-world
 ubuntu
 centos:centos7
+registry:latest
