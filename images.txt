@@ -4,4 +4,4 @@
 #ubuntu
 #centos:centos7
 #registry:latest
-docker pull tomcat:8.5.0
+docker pull tomcat
